@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZHaaaAO
 - 👀 I’m interested in Wind turbine Structure Design and Optimization
-- 🌱 I’m currently learning OpenFOAM
+- 🌱 I’m currently learning OpenFAST
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
